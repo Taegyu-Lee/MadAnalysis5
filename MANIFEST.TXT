@@ -1,0 +1,4 @@
+atlas_susy_2018_06.cpp (text/x-c) 18918 bytes.
+atlas_susy_2018_06.h (text/x-c) 809 bytes.
+atlas_susy_2018_06.info (application/octet-stream) 1148 bytes.
+delphes_card_atlas_susy_2018_06.tcl (application/x-tcl) 23271 bytes.
